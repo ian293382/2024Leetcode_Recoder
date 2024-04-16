@@ -16,5 +16,10 @@ a = input()
 b = input()
 print(a, b) # 5, 10
 
-a, b = b ,a
+# ans_set = (a,b)
+
+# a = ans_set[1]
+# b = ans_set[0]
+
+a, b = b , a 
 print(a, b) # 10, 5
