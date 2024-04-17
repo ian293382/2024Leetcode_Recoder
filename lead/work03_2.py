@@ -11,7 +11,8 @@
 # ❏ Sample Output： The company is good! ← 畫面輸出
 
 # ❏ Sample Code：
-# dir(str) help(str.replace)
+
+# dir(str)  => help(str.replace)
 
 s = input() # The company is not that poor! 
 
