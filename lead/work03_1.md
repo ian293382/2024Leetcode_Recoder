@@ -16,7 +16,7 @@
 
 5. 請問 Python 中的字串型態是 mutable 還是 immutable？該怎麼判斷呢？
 
-immutable 他的值永遠固定
+immutable 他的值永遠固定 不能做更改 
 >>> s = "hello"
 >>> s[1] = 'a'
 Traceback (most recent call last):
