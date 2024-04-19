@@ -75,6 +75,16 @@ print(a)
 print(f('B'))
 print(a)
 (在這裡回答)
+>>> print(a)
+A
+>>> print(f('B'))
+AAA
+B
+C
+B
+>>> print(a)
+A
+
 
 5. 請問下方程式碼會回傳什麼結果？
 
@@ -91,4 +101,12 @@ def f(b):
 print(a)
 print(f('B'))
 print(a)
-(在這裡回答)
+>>> print(a)
+A
+>>> print(f('B'))
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 3, in f
+UnboundLocalError: cannot access local variable 'a' where it is not associated with a value
+>>> print(a)
+A
