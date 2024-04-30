@@ -16,7 +16,7 @@
 
 # ❏ Sample Output #2: [True,True,False,True,False,True] ← 畫面輸出
 
-# ❏ Sample Code:
+# ❏ Sample Code: Task #04 作業 02【參考解答】手刻 map 函式
 
 def add1(n):
   return n+1

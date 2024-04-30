@@ -23,3 +23,12 @@ print(s) # [2, 3, 4, 5, 6, 7, 8, 9, 1]
 
 # s = L[1:9]
 # s.append(L.pop(0))
+
+
+1️⃣ Github Repo 網址：https://github.com/ian293382/colab_mask_data/blob/main/project_data.ipynb
+
+2️⃣ 今天的練習難易度可以如何？ 第三段有點卡住
+
+3️⃣ 過程中有遇到什麼問題或是心得嗎？＿＿＿＿＿＿＿
+
+4️⃣ 上傳一張執行結果的截圖：＿＿＿＿＿＿＿

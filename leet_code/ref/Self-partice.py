@@ -16,4 +16,4 @@ def max_self_diving_difference(a, b):
     max_diff = 0 
     max_diff_pair = None
 
-    for i in range(len[len(diving_list])
+    for i in range(len(len(diving_list))

@@ -16,7 +16,7 @@
 
 # ❏ Sample Code:
 
-nums =[2,7,11,15], target = 9
+
 def twoSum(nums, target):
  # 創建一個字典用於存儲已經遍歷過的數字和它們的 index
     visited = {}
@@ -31,3 +31,6 @@ def twoSum(nums, target):
         visited[num] = i
     # 如果找不到符合條件的組合，返回空列表
     return []
+
+nums =[2,7,11,15] 
+target = 9
