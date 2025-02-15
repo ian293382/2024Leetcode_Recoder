@@ -1,3 +1,5 @@
 .env
 /env
-/leet_code/ref/partice.py
+lead/practice.py
+leet_code/ref/practice.py
+javascript/node_modules
